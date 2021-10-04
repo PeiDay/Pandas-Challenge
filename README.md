@@ -8,6 +8,8 @@ We are analyzing the data for a gaming compamy for their most recent fantasy gam
 
 In this Panda-Monium repository, there is a directory called **HeroesOfPymoli**. A Jupyter notebook file and a **Resources** folder are in this folder. The Jupyter notebook will be the main script to run for analysis. The raw data is saved in the **Resources** folder.
 
+The csv file raw data contains: `Purchase ID`, `SN`, `Age`, `Gender`, `Item ID`, `Item Name`, and `Price`.  
+
 
 ## Heroes of Pymoli data analysis
 
