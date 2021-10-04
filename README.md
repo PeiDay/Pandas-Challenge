@@ -6,9 +6,9 @@
 
 We are analyzing the data for a gaming compamy for their most recent fantasy game **Heroes of Pymoli**.  Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like to have an analysus that breaks down the game's purchasing data into meaningful insights.
 
-In this Panda-Monium repository, there is a directory called **HeroesOfPymoli**. A Jupyter notebook file and a **Resources** folder are in this folder. The Jupyter notebook will be the main script to run for analysis. The raw data is saved in the **Resources** folder.
+In this Panda-Monium repository, there is a directory called **HeroesOfPymoli**. A Jupyter notebook file and a **Resources** folder are in this directory. The Jupyter notebook will be the main script to run for analysis. The raw data is saved in the **Resources** folder.
 
-The csv file raw data contains: `Purchase ID`, `SN`, `Age`, `Gender`, `Item ID`, `Item Name`, and `Price`.  
+The csv file raw data contains `Purchase ID`, `SN`, `Age`, `Gender`, `Item ID`, `Item Name`, and `Price` for Python Pandas analyzing.
 
 
 ## Heroes of Pymoli data analysis
