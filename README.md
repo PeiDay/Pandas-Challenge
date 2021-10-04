@@ -1,6 +1,6 @@
 # Panda-Monium - Heroes Of Pymoli
 
-![Fantasy](Images/Fantasy.png)
+![Fantasy](https://github.com/PeiDay/Pandas-Challenge/blob/main/Fantasy.png)
 
 ## Background
 
@@ -32,11 +32,11 @@ This analysis report includes the following information:
 
 ### Purchasing Analysis (Gender)
 
-    * The below each broken by gender
-    * Purchase Count
-    * Average Purchase Price
-    * Total Purchase Value
-    * Average Purchase Total per Person by Gender
+* The below each broken by gender
+* Purchase Count
+* Average Purchase Price
+* Total Purchase Value
+* Average Purchase Total per Person by Gender
 
 ### Age Demographics
 
