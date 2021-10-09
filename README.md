@@ -84,7 +84,7 @@ This analysis report includes the following information:
 
 ## Heroes of Pymoli observable trends
 
-* Based on the gender and age demographics, the majority players are **male** (M:F = 84% vs 14%), and 44% of the player are between **20 to 24** years old.
+* Based on the gender and age demographics, the majority players are **male** (M:F = 84% : 14%), and 44% of the player are between **20 to 24** years old.
 * Based one Purchasing Analysis, **male players** are most likely to be returning customers.
 * The most popular and most profitable item sold is the **Final Critic**. 
     
